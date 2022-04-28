@@ -1,0 +1,2 @@
+# SC
+Synthenic Control Method
