@@ -8,16 +8,16 @@ remote_theme: pmarsceill/just-the-docs
 title:  Synthetic control methods
 description: Follow the latest developments in the SC literature.
 #baseurl: "/SC" # the subpath of your site, e.g. /blog
-#url: "https://asjadnaqvi.github.io/DiD/" # the base hostname & protocol for your site, e.g. http://example.com
+#url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-logo: "/assets/images/DiD.png"
+logo: "/image/IMG_3695.JPG"
 
 # Back to top link
 back_to_top: true
 back_to_top_text: "Back to top"
 
 # Footer content
-footer_content: "Content by Asjad Naqvi (2020-2022). Distributed under an <a href=\"https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt\">MIT license.</a>"
+footer_content: "Content by Wenli Wenddy Xu (2022-2022). Distributed under an <a href=\"https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt\">MIT license.</a>"
 
 # Footer last edited timestamp
 last_edit_timestamp: true 
@@ -26,7 +26,7 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: false # show or hide edit this page link
 gh_edit_link_text: "Edit this page on GitHub."
-gh_edit_repository: "https://github.com/asjadnaqvi/DiD" # the github URL for your repo
+gh_edit_repository: "https://github.com/wenddymacro/SC" # the github URL for your repo
 gh_edit_branch: "master" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
