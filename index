@@ -3,15 +3,15 @@ layout: default
 title: Synthetic Control (SC) Methods
 nav_order: 1
 description: "Welcome to the SC revolution."
-image: "/images/DiD.jpg"
+image: "/images/IMG_3695.JPG"
 permalink: /
 ---
 
-<img src="./assets/images/DiD_banner.jpg">
+<img src="./images/IMG_3695.JPG">
 
 # Welcome!
 
-This repository tracks the recent developments in the **Difference-in-Difference (DiD)** literature. It serves two purposes. First, it is an organized dump of my bookmarks from Twitter, GitHub, YouTube etc. The aim here is to keep track of the DiD updates. The second is to make sense of the different packages from an end-user's perspective. This part has to do with how to apply these methods in our research work. On the theory side, several really useful notes already exist (see the [Resources](https://asjadnaqvi.github.io/DiD/docs/resources) section).
+This repository tracks the recent developments in the **Synthetic Control (SC) Methods** literature. It serves two purposes. First, it is an organized dump of my bookmarks from Twitter, GitHub, YouTube etc. The aim here is to keep track of the SC updates. The second is to make sense of the different packages from an end-user's perspective. This part has to do with how to apply these methods in our research work. On the theory side, several really useful notes already exist (see the [Resources](https://asjadnaqvi.github.io/DiD/docs/resources) section).
 
 I will keep adding content to this website. It might contain errors or the language might not be precise enough. This probably reflects my own poor understanding of what is going on. So please give feedback! The aim of this repository is to collectively build up notes and a code base that we can all use.
 
