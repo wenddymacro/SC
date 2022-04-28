@@ -8,7 +8,7 @@ remote_theme: pmarsceill/just-the-docs
 title:  Synthetic control methods
 description: Follow the latest developments in the SC literature.
 #baseurl: "/SC" # the subpath of your site, e.g. /blog
-#url: "" # the base hostname & protocol for your site, e.g. http://example.com
+#url: "https://wenddymacro.github.io/SC/" # the base hostname & protocol for your site, e.g. http://example.com
 
 logo: "/image/IMG_3695.JPG"
 
@@ -44,7 +44,7 @@ heading_anchors: true
 # Aux links for the upper right navigation
 aux_links:
   "View on GitHub":
-    - "" 
+    - "https://wenddymacro.github.io/SC/" 
     
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
